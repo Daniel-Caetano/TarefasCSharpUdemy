@@ -1,0 +1,16 @@
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\bin\Debug\net5.0\TarefaListas.exe
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\bin\Debug\net5.0\TarefaListas.deps.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\bin\Debug\net5.0\TarefaListas.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\bin\Debug\net5.0\TarefaListas.runtimeconfig.dev.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\bin\Debug\net5.0\TarefaListas.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\bin\Debug\net5.0\TarefaListas.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.csproj.AssemblyReference.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\refint\TarefaListas.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\TarefaListas.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\TarefaListas\obj\Debug\net5.0\ref\TarefaListas.dll
