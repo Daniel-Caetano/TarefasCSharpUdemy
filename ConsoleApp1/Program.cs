@@ -13,23 +13,24 @@ namespace TarefaClasses
 
             for(int i = 0; i < qtdQuartos; i++)
             {
-                Estudante estudante = new Estudante();
+                Console.WriteLine();
+                Console.WriteLine($"Aluguel #{i+1}");
                 Console.WriteLine("Qual o seu nome?");
-                estudante.Nome= Console.ReadLine();
+                string nome= Console.ReadLine();
                 Console.WriteLine("Qual o seu email?");
-                estudante.Email = Console.ReadLine();
+                string email = Console.ReadLine();
                 Console.WriteLine("Qual quarto deseja ficar?");
                 int numeroQuarto= int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                quartos[numeroQuarto] = estudante; 
+                quartos[numeroQuarto] = new Estudante(nome, email); 
             }
 
-            Console.WriteLine("Quartos ocupados:");
+            Console.WriteLine("\nQuartos ocupados:");
             for (int i = 0; i < quartos.Length; i++)
             {
-                if (!(quartos[i] == null))
+                if (quartos[i] != null)
                 {
-                    Console.WriteLine($"{i}: {quartos[i].Nome}, {quartos[i].Email}");
+                    Console.WriteLine(i +": "+ quartos[i]);
                 }
             }
 
