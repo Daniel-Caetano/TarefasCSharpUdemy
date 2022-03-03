@@ -1,0 +1,16 @@
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\bin\Debug\net5.0\TarefaClasses.exe
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\bin\Debug\net5.0\TarefaClasses.deps.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\bin\Debug\net5.0\TarefaClasses.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\bin\Debug\net5.0\TarefaClasses.runtimeconfig.dev.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\bin\Debug\net5.0\TarefaClasses.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\bin\Debug\net5.0\TarefaClasses.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.csproj.AssemblyReference.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\refint\TarefaClasses.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\TarefaClasses.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ConsoleApp1\obj\Debug\net5.0\ref\TarefaClasses.dll
