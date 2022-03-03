@@ -28,14 +28,13 @@ namespace TarefaListas
                 Console.Write("Salary: ");
                 double newSalary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                Employee employee = new Employee(newId, newName, newSalary);
-                employees.Add(employee);
+                employees.Add(new Employee(newId, newName, newSalary));
                 Console.WriteLine();
             }
 
             Console.Write("Enter the employee id that will have salary increase : ");
             int id = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            double salary=0;
+
             if (!employees.Exists(x => x.Id == id))
             {
                 Console.WriteLine("This id does not exist!");
@@ -43,9 +42,9 @@ namespace TarefaListas
             else
             {
                 Console.Write("Enter the percentage: ");
-                salary = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                double percentage = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 int posicao = employees.FindIndex(x => x.Id == id);
-                employees[posicao].AumentoSalary(salary);
+                employees[posicao].AumentoSalary(percentage);
             }
 
             Console.WriteLine();
@@ -54,7 +53,6 @@ namespace TarefaListas
             {
                 Console.WriteLine(employees[i]);
             }
-
 
         }
     }
