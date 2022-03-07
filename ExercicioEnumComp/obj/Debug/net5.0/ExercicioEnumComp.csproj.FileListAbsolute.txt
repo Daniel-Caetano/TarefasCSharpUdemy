@@ -1,0 +1,16 @@
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\bin\Debug\net5.0\ExercicioEnumComp.exe
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\bin\Debug\net5.0\ExercicioEnumComp.deps.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\bin\Debug\net5.0\ExercicioEnumComp.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\bin\Debug\net5.0\ExercicioEnumComp.runtimeconfig.dev.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\bin\Debug\net5.0\ExercicioEnumComp.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\bin\Debug\net5.0\ExercicioEnumComp.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.csproj.AssemblyReference.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\refint\ExercicioEnumComp.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ExercicioEnumComp.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioEnumComp\obj\Debug\net5.0\ref\ExercicioEnumComp.dll

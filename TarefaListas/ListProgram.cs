@@ -53,7 +53,6 @@ namespace TarefaListas
             {
                 Console.WriteLine(employees[i]);
             }
-
         }
     }
 }
