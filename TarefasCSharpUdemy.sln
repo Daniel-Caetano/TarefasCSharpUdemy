@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarefaClasses", "ConsoleApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarefaListas", "TarefaListas\TarefaListas.csproj", "{185B5AE9-4E19-4BF1-98DB-6426DFC7E241}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioEnumComp", "ExercicioEnumComp\ExercicioEnumComp.csproj", "{4D13AD4B-2518-4288-B8AE-4CAF6ACD7EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioEnumComp", "ExercicioEnumComp\ExercicioEnumComp.csproj", "{4D13AD4B-2518-4288-B8AE-4CAF6ACD7EE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioHeranca", "ExercicioHeranca\ExercicioHeranca.csproj", "{15EF1986-CA3B-4CE7-9A64-19C4125DF380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioHeranca", "ExercicioHeranca\ExercicioHeranca.csproj", "{15EF1986-CA3B-4CE7-9A64-19C4125DF380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioClasseAbstract", "ExercicioClasseAbstract\ExercicioClasseAbstract.csproj", "{7B851508-47F3-464A-BB3F-95C1A22C03CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{15EF1986-CA3B-4CE7-9A64-19C4125DF380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15EF1986-CA3B-4CE7-9A64-19C4125DF380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15EF1986-CA3B-4CE7-9A64-19C4125DF380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B851508-47F3-464A-BB3F-95C1A22C03CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B851508-47F3-464A-BB3F-95C1A22C03CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B851508-47F3-464A-BB3F-95C1A22C03CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B851508-47F3-464A-BB3F-95C1A22C03CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\bin\Debug\net5.0\ExercicioClasseAbstract.exe
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\bin\Debug\net5.0\ExercicioClasseAbstract.deps.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\bin\Debug\net5.0\ExercicioClasseAbstract.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\bin\Debug\net5.0\ExercicioClasseAbstract.runtimeconfig.dev.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\bin\Debug\net5.0\ExercicioClasseAbstract.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\bin\Debug\net5.0\ExercicioClasseAbstract.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.csproj.AssemblyReference.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\refint\ExercicioClasseAbstract.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ExercicioClasseAbstract.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioClasseAbstract\obj\Debug\net5.0\ref\ExercicioClasseAbstract.dll
