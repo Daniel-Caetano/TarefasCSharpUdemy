@@ -1,0 +1,16 @@
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.exe
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.deps.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.runtimeconfig.dev.json
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\bin\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.AssemblyReference.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\refint\ExercicioHeranca.dll
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.pdb
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ExercicioHeranca.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioHeranca\obj\Debug\net5.0\ref\ExercicioHeranca.dll
