@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioEnumComp", "Exerci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioHeranca", "ExercicioHeranca\ExercicioHeranca.csproj", "{15EF1986-CA3B-4CE7-9A64-19C4125DF380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioClasseAbstract", "ExercicioClasseAbstract\ExercicioClasseAbstract.csproj", "{7B851508-47F3-464A-BB3F-95C1A22C03CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioClasseAbstract", "ExercicioClasseAbstract\ExercicioClasseAbstract.csproj", "{7B851508-47F3-464A-BB3F-95C1A22C03CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioException", "ExercicioException\ExercicioException.csproj", "{35CF6B3C-D8F8-4FF4-BF41-C50F24071D65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioException", "ExercicioException\ExercicioException.csproj", "{35CF6B3C-D8F8-4FF4-BF41-C50F24071D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioArquivos", "ExercicioArquivos\ExercicioArquivos.csproj", "{461E8435-1A49-4138-9C62-521CF4080853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{35CF6B3C-D8F8-4FF4-BF41-C50F24071D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CF6B3C-D8F8-4FF4-BF41-C50F24071D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CF6B3C-D8F8-4FF4-BF41-C50F24071D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461E8435-1A49-4138-9C62-521CF4080853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461E8435-1A49-4138-9C62-521CF4080853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461E8435-1A49-4138-9C62-521CF4080853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461E8435-1A49-4138-9C62-521CF4080853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
