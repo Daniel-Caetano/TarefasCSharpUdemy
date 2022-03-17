@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ConsoleApp1\\TarefaClasses.csproj": {}
+    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ConsoleApp1\\TarefaClasses.csproj": {}
   },
   "projects": {
-    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ConsoleApp1\\TarefaClasses.csproj": {
+    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ConsoleApp1\\TarefaClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ConsoleApp1\\TarefaClasses.csproj",
+        "projectUniqueName": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ConsoleApp1\\TarefaClasses.csproj",
         "projectName": "TarefaClasses",
-        "projectPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ConsoleApp1\\TarefaClasses.csproj",
+        "projectPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ConsoleApp1\\TarefaClasses.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ConsoleApp1\\obj\\",
+        "outputPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

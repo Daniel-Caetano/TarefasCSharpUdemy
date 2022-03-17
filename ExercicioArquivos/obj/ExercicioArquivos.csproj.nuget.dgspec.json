@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioArquivos\\ExercicioArquivos.csproj": {}
+    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioArquivos\\ExercicioArquivos.csproj": {}
   },
   "projects": {
-    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioArquivos\\ExercicioArquivos.csproj": {
+    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioArquivos\\ExercicioArquivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioArquivos\\ExercicioArquivos.csproj",
+        "projectUniqueName": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioArquivos\\ExercicioArquivos.csproj",
         "projectName": "ExercicioArquivos",
-        "projectPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioArquivos\\ExercicioArquivos.csproj",
+        "projectPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioArquivos\\ExercicioArquivos.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioArquivos\\obj\\",
+        "outputPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioArquivos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

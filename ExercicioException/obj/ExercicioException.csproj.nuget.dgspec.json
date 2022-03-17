@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioException\\ExercicioException.csproj": {}
+    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioException\\ExercicioException.csproj": {}
   },
   "projects": {
-    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioException\\ExercicioException.csproj": {
+    "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioException\\ExercicioException.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioException\\ExercicioException.csproj",
+        "projectUniqueName": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioException\\ExercicioException.csproj",
         "projectName": "ExercicioException",
-        "projectPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioException\\ExercicioException.csproj",
+        "projectPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioException\\ExercicioException.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TarefasCSharpUdemy\\ExercicioException\\obj\\",
+        "outputPath": "E:\\OneDrive\\Documentos\\desenvolvimento\\udemy\\C#-Completo\\TestesCSharp\\ExercicioException\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
