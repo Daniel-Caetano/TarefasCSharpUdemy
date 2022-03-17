@@ -13,8 +13,7 @@ namespace ExercicioArquivos
             string pathFile = @"C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioArquivos\itens.csv";
             string createDirectory = @"C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioArquivos\out";
             string createNewFileCsv = @"C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioArquivos\out\summary.csv";
-            // List<string> lines = new List<string>();
-            //string path = @"C:\Users\daniel.ferreira\Documents\desenvolvimento\udemy\C#-Completo\TarefasCSharpUdemy\ExercicioArquivos\totalitensvendidos.txt";
+            
             try
             {
                 if (!Directory.Exists(createDirectory))
