@@ -1,0 +1,16 @@
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.exe
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.deps.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.runtimeconfig.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.runtimeconfig.dev.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\bin\Debug\net5.0\ExercicioInterface.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.AssemblyInfo.cs
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\refint\ExercicioInterface.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ExercicioInterface.genruntimeconfig.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioInterface\obj\Debug\net5.0\ref\ExercicioInterface.dll
