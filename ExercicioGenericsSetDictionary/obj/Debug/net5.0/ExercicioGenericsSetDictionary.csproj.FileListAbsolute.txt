@@ -1,0 +1,16 @@
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\bin\Debug\net5.0\ExercicioGenericsSetDictionary.exe
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\bin\Debug\net5.0\ExercicioGenericsSetDictionary.deps.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\bin\Debug\net5.0\ExercicioGenericsSetDictionary.runtimeconfig.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\bin\Debug\net5.0\ExercicioGenericsSetDictionary.runtimeconfig.dev.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\bin\Debug\net5.0\ExercicioGenericsSetDictionary.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\bin\Debug\net5.0\ExercicioGenericsSetDictionary.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.AssemblyInfo.cs
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\refint\ExercicioGenericsSetDictionary.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ExercicioGenericsSetDictionary.genruntimeconfig.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExercicioGenericsSetDictionary\obj\Debug\net5.0\ref\ExercicioGenericsSetDictionary.dll
