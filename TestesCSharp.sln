@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioArquivos", "Exerci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioInterface", "ExercicioInterface\ExercicioInterface.csproj", "{68B8A29B-DCE4-41D6-998E-6E3E4AB81865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioGenericsSetDictionary", "ExercicioGenericsSetDictionary\ExercicioGenericsSetDictionary.csproj", "{407E6604-8EF7-49BB-900C-931BC825193A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioGenericsSetDictionary", "ExercicioGenericsSetDictionary\ExercicioGenericsSetDictionary.csproj", "{407E6604-8EF7-49BB-900C-931BC825193A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseDictionary", "ExerciseDictionary\ExerciseDictionary.csproj", "{6E766168-1D00-47DF-BF0E-B6D2CE99DDD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{407E6604-8EF7-49BB-900C-931BC825193A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{407E6604-8EF7-49BB-900C-931BC825193A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{407E6604-8EF7-49BB-900C-931BC825193A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E766168-1D00-47DF-BF0E-B6D2CE99DDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E766168-1D00-47DF-BF0E-B6D2CE99DDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E766168-1D00-47DF-BF0E-B6D2CE99DDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E766168-1D00-47DF-BF0E-B6D2CE99DDD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

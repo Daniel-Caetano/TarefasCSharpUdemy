@@ -1,0 +1,16 @@
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\bin\Debug\net5.0\ExerciseDictionary.exe
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\bin\Debug\net5.0\ExerciseDictionary.deps.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\bin\Debug\net5.0\ExerciseDictionary.runtimeconfig.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\bin\Debug\net5.0\ExerciseDictionary.runtimeconfig.dev.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\bin\Debug\net5.0\ExerciseDictionary.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\bin\Debug\net5.0\ExerciseDictionary.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.AssemblyInfo.cs
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\refint\ExerciseDictionary.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ExerciseDictionary.genruntimeconfig.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseDictionary\obj\Debug\net5.0\ref\ExerciseDictionary.dll
