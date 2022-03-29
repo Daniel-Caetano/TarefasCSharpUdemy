@@ -1,0 +1,16 @@
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\bin\Debug\net5.0\ExerciseLambdaLinq.exe
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\bin\Debug\net5.0\ExerciseLambdaLinq.deps.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\bin\Debug\net5.0\ExerciseLambdaLinq.runtimeconfig.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\bin\Debug\net5.0\ExerciseLambdaLinq.runtimeconfig.dev.json
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\bin\Debug\net5.0\ExerciseLambdaLinq.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\bin\Debug\net5.0\ExerciseLambdaLinq.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.csproj.AssemblyReference.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.AssemblyInfoInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.AssemblyInfo.cs
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\refint\ExerciseLambdaLinq.dll
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.pdb
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ExerciseLambdaLinq.genruntimeconfig.cache
+E:\OneDrive\Documentos\desenvolvimento\udemy\C#-Completo\TestesCSharp\ExerciseLambdaLinq\obj\Debug\net5.0\ref\ExerciseLambdaLinq.dll
